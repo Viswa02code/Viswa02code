@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Viswaprasath Sekar</h1>
 <h3 align="center">A Aspiring Data Scientist from India</h3>
-<img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswa02code&label=Profile%20views&color=0e75b6&style=flat" alt="viswa02code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswa02code" alt="viswa02code" /></a> </p>
