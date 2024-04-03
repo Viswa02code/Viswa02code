@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Viswaprasath Sekar</h1>
 <h3 align="center">A Aspiring Data Scientist from India</h3>
-<img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/da:true/resize:fit:680/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswa02code&label=Profile%20views&color=0e75b6&style=flat" alt="viswa02code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswa02code" alt="viswa02code" /></a> </p>
