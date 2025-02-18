@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswa02code&label=Profile%20views&color=0e75b6&style=flat" alt="viswa02code" /> </p>
 
-<p align="left"> <a href="(https://leetcode.com/u/Viswa02code/)" target="blank"> alt="LeetCode" /></a> </p>
 <p align="left"> <a href="https://twitter.com/tweetme_viswa" target="blank"><img src="https://img.shields.io/twitter/follow/tweetme_viswa?logo=twitter&style=for-the-badge" alt="tweetme_viswa" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
